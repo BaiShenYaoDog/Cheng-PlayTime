@@ -1,0 +1,9 @@
+name: Cheng-PlayTime
+version: '1.0'
+main: cn.ChengZhiYa.PlayTime.main
+api-version: 1.18
+authors: [ ChengZhiYa ]
+description: 记录玩家在线时间
+commands:
+  PlayTime:
+    description: 积累在线时长
